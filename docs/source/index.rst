@@ -37,7 +37,7 @@ In conclusion, psychedelics are not simply recreational substances or tools of e
 
 Note: Please note that the content provided in this article is for informative purposes only and does not constitute medical or psychiatric advice. If you are considering the use of psychedelics for therapeutic purposes, it is crucial to consult with a qualified healthcare professional.
 
-Source: `Tripsitter <https://tripsitter.com/>`
+Source: [Tripsitter](https://tripsitter.com/)
 .. note::
 
    This project is under active development.
